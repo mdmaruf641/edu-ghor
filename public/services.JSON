@@ -1,0 +1,98 @@
+[
+  {
+    "img": "https://i.ibb.co/fNmNNsF/course-2.jpg",
+    "name": "Data Science and Machine Learning with Python - Hands On!",
+    "time": " 08 hr 15 mins",
+    "lesson": "29 Lectures",
+    "category": "Science",
+    "price": "$340"
+  },
+  {
+    "img": "https://i.ibb.co/8sGj8D3/course-7.jpg",
+    "name": "Create Amazing Color Schemes for Your UX Design Projects",
+    "time": " 06 hr 33 mins",
+    "lesson": "23 Lectures",
+    "category": "Design",
+    "price": "$270"
+  },
+  {
+    "img": "https://i.ibb.co/VvgDh7r/course-11.jpg",
+    "name": "Culture & Leadership: Strategies for a Successful Business",
+    "time": " 09 hr 35 mins",
+    "lesson": "39 Lectures",
+    "category": "Management",
+    "price": "$390"
+  },
+  {
+    "img": "https://i.ibb.co/J7Gr99N/course-img.jpg",
+    "name": "Finance Series: Learn to Budget and Calculate your Net Worth.",
+    "time": " 08 hr 44 mins",
+    "lesson": "33 Lectures",
+    "category": "Finance",
+    "price": "$320"
+  },
+  {
+    "img": "https://i.ibb.co/mFzWbKT/course-img-1.jpg",
+    "name": "Build Brand Into Marketing: Tackling the New Marketing Landscape",
+    "time": " 06 hr 23 mins",
+    "lesson": "22 Lectures",
+    "category": "Marketing",
+    "price": "$250"
+  },
+  {
+    "img": "https://i.ibb.co/pbQmR2K/courses-03.jpg",
+    "name": "Graphic Design: Illustrating Badges and Icons with Geometric Shapes",
+    "time": "10 hr 15 mins",
+    "lesson": "33 Lectures",
+    "category": "Design",
+    "price": "$350"
+  },
+  {
+    "img": "https://i.ibb.co/bNJGc5x/courses-04.jpg",
+    "name": "The Complete SEO Training In One Course",
+    "time": " 05 hr 15 mins",
+    "lesson": "19 Lectures",
+    "category": "Digital Marketing",
+    "price": "$240"
+  },
+  {
+    "img": "https://i.ibb.co/9Ht6dhn/courses-05.jpg",
+    "name": "Design & Art Exam Prep Seminar",
+    "time": " 08 hr 15 mins",
+    "lesson": "29 Lectures",
+    "category": "Design",
+    "price": "$340"
+  },
+  {
+    "img": "https://i.ibb.co/4tHfZcz/courses-06.jpg",
+    "name": "Hands-On Tableau Training For Data Science 2019",
+    "time": " 10 hr 15 mins",
+    "lesson": "37 Lectures",
+    "category": "Science",
+    "price": "$440"
+  },
+  {
+    "img": "https://i.ibb.co/6tZzvhp/courses-08.jpg",
+    "name": "AWS Certification: The Complete Course 2020",
+    "time": " 08 hr 15 mins",
+    "lesson": "29 Lectures",
+    "category": "Science",
+    "price": "$340"
+  },
+  {
+    "img": "https://i.ibb.co/4dC4KLj/courses-02.jpg",
+    "name": "PMP Exam Prep Seminar – PMBOK Guide 6 Tableau.",
+    "time": " 06 hr 15 mins",
+    "lesson": "24 Lectures",
+    "category": "Business",
+    "price": "$370"
+  },
+  {
+    "img": "https://i.ibb.co/Pg8TKwx/courses-01.jpg",
+    "name": "Data Science and Machine Learning with Python - Hands On!",
+    "time": " 08 hr 15 mins",
+    "lesson": "29 Lectures",
+    "category": "Science",
+    "price": "$340"
+  }
+]
