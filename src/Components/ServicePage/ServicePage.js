@@ -1,11 +1,9 @@
 import React from "react";
 import { Card, Col } from "react-bootstrap";
 import { useHistory } from "react-router-dom";
-import "./Service.css";
 
-const Service = (props) => {
+const ServicePage = (props) => {
   const { img, name, time, lesson, category, id, price } = props.service;
-
   // card details button
   const history = useHistory();
   const handleClick = () => {
@@ -34,4 +32,4 @@ const Service = (props) => {
   );
 };
 
-export default Service;
+export default ServicePage;
