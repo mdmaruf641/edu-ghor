@@ -7,22 +7,14 @@ const Footer = () => {
     <div className="footer">
       <Container>
         <Row>
-          <Col>
+          <Col className="text-start">
             <p>
               Copyright © 2021 | <span>Edu Ghor</span> | Privacy Policy |
               Support
             </p>
-            {/* <p>
-              Copyright © 2021 <span>Edu Ghor</span> |<a> Privacy Policy </a> |
-              <a> FAQ </a> |<a> Support</a>
-            </p> */}
           </Col>
-          <Col>
+          <Col className="text-end">
             <p>Designed by MD. Maruf</p>
-            {/* <p>
-              Designed by
-              <a>Maruf</a> | Only on <span>Envato Market</span>
-            </p> */}
           </Col>
         </Row>
       </Container>

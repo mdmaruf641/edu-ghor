@@ -5,6 +5,9 @@
     "time": " 08 hr 15 mins",
     "lesson": "29 Lectures",
     "category": "Science",
+    "id": "T3SDFDG44",
+    "star": 3,
+    "starCount": 3525,
     "price": "$340"
   },
   {
@@ -13,6 +16,9 @@
     "time": " 06 hr 33 mins",
     "lesson": "23 Lectures",
     "category": "Design",
+    "id": "Z3SDFDG455",
+    "star": 4,
+    "starCount": 149,
     "price": "$270"
   },
   {
@@ -21,6 +27,9 @@
     "time": " 09 hr 35 mins",
     "lesson": "39 Lectures",
     "category": "Management",
+    "id": "Z5DFDG433",
+    "star": 3,
+    "starCount": 3141,
     "price": "$390"
   },
   {
@@ -29,6 +38,9 @@
     "time": " 08 hr 44 mins",
     "lesson": "33 Lectures",
     "category": "Finance",
+    "id": "Z3SDFDG43",
+    "star": 3,
+    "starCount": 2066,
     "price": "$320"
   },
   {
@@ -37,6 +49,9 @@
     "time": " 06 hr 23 mins",
     "lesson": "22 Lectures",
     "category": "Marketing",
+    "id": "87HDFDG4TR",
+    "star": 4,
+    "starCount": 4646,
     "price": "$250"
   },
   {
@@ -45,6 +60,9 @@
     "time": "10 hr 15 mins",
     "lesson": "33 Lectures",
     "category": "Design",
+    "id": "786DG433",
+    "star": 3,
+    "starCount": 4293,
     "price": "$350"
   },
   {
@@ -53,6 +71,9 @@
     "time": " 05 hr 15 mins",
     "lesson": "19 Lectures",
     "category": "Digital Marketing",
+    "id": "H63FDG4PI",
+    "star": 3,
+    "starCount": 599,
     "price": "$240"
   },
   {
@@ -61,6 +82,9 @@
     "time": " 08 hr 15 mins",
     "lesson": "29 Lectures",
     "category": "Design",
+    "id": "Z435DFDG4YT",
+    "star": 3,
+    "starCount": 257,
     "price": "$340"
   },
   {
@@ -69,6 +93,9 @@
     "time": " 10 hr 15 mins",
     "lesson": "37 Lectures",
     "category": "Science",
+    "id": "SRSD67G433",
+    "star": 4,
+    "starCount": 2830,
     "price": "$440"
   },
   {
@@ -77,6 +104,9 @@
     "time": " 08 hr 15 mins",
     "lesson": "29 Lectures",
     "category": "Science",
+    "id": "34DFDG4GH",
+    "star": 4,
+    "starCount": 2777,
     "price": "$340"
   },
   {
@@ -85,6 +115,9 @@
     "time": " 06 hr 15 mins",
     "lesson": "24 Lectures",
     "category": "Business",
+    "id": "SD433GFD",
+    "star": 4,
+    "starCount": 2457,
     "price": "$370"
   },
   {
@@ -93,6 +126,9 @@
     "time": " 08 hr 15 mins",
     "lesson": "29 Lectures",
     "category": "Science",
+    "id": "Z3SDFDG433",
+    "star": 4,
+    "starCount": 4232,
     "price": "$340"
   }
 ]

@@ -1,8 +1,14 @@
 import React from "react";
-import { Container, Nav, Navbar, NavDropdown } from "react-bootstrap";
+import { Container, Nav, Navbar } from "react-bootstrap";
+import { NavLink } from "react-router-dom";
 import "./Header.css";
 
 const Header = () => {
+  // menu active style
+  const activeStyle = {
+    color: "#319157",
+  };
+
   return (
     <div>
       <Navbar className="navbar" expand="lg">
@@ -13,10 +19,34 @@ const Header = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">
-              <Nav.Link className="fs-5 px-4 menu">Home</Nav.Link>
-              <Nav.Link className="fs-5 px-4 menu">About</Nav.Link>
-              <Nav.Link className="fs-5 px-4 menu">Services</Nav.Link>
-              <Nav.Link className="fs-5 px-4 menu">Contact</Nav.Link>
+              <NavLink
+                activeStyle={activeStyle}
+                to="/home"
+                className="fs-5 mx-3 menu"
+              >
+                Home
+              </NavLink>
+              <NavLink
+                activeStyle={activeStyle}
+                to="/about"
+                className="fs-5 mx-3 menu"
+              >
+                About
+              </NavLink>
+              <NavLink
+                activeStyle={activeStyle}
+                to="/services"
+                className="fs-5 mx-3 menu"
+              >
+                Services
+              </NavLink>
+              <NavLink
+                activeStyle={activeStyle}
+                to="/contact"
+                className="fs-5 mx-3 menu"
+              >
+                Contact
+              </NavLink>
             </Nav>
           </Navbar.Collapse>
         </Container>
