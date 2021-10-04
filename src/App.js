@@ -24,18 +24,22 @@ function App() {
             <Banner></Banner>
             <Services></Services>
           </Route>
+
           <Route exact path="/">
             <Banner></Banner>
             <Services></Services>
           </Route>
+
           {/* Services Page */}
           <Route path="/services">
             <ServicesPage></ServicesPage>
           </Route>
+
           {/* Card Details */}
           <Route path="/service/:serviceId">
             <CardDetails></CardDetails>
           </Route>
+
           {/* About Page */}
           <Route path="/about">
             <About></About>
@@ -45,6 +49,7 @@ function App() {
           <Route path="/contact">
             <Contact></Contact>
           </Route>
+
           {/* Not Found Page */}
           <Route path="*">
             <NotFound></NotFound>

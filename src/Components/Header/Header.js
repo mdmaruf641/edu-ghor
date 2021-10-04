@@ -13,7 +13,7 @@ const Header = () => {
     <div>
       <Navbar className="navbar" expand="lg">
         <Container>
-          <Navbar.Brand className="fs-4 fw-bold logo" href="#home">
+          <Navbar.Brand className="fs-4 fw-bold logo">
             Edu.<span>Ghor</span>
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
